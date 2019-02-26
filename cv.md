@@ -26,9 +26,11 @@ Engineering-Psychological Maintenance of Information Technologies
 
 ## Courses
 **Rolling Scopes School** 2019 - present
+
 JavaScript development Q1-2019
 
 **Cisco** 01.2018 - 03.2018
+
 IT Essentials, Cisco Networking Academy
 
 ## Languages
