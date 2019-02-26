@@ -17,3 +17,19 @@ I have an understanding of Javascript basic. I have a passion to programming. I 
 ## Last Projects
 * CV [Visit Project here](https://jeka98.github.io/CV)
 * Minto [Visit Project here](https://jeka98.github.io/Minto_test/)
+## Education
+**BSUIR** 2016 - present
+
+**Faculty of Computer-aided Design**
+
+Engineering-Psychological Maintenance of Information Technologies
+
+## Courses
+**Rolling Scopes School** 2019 - present
+JavaScript development Q1-2019
+
+**Cisco** 01.2018 - 03.2018
+IT Essentials, Cisco Networking Academy
+
+## Languages
+English B1(intermediate)
