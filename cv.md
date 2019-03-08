@@ -17,6 +17,7 @@ I have an understanding of Javascript basic. I have a passion to programming. I 
 ## Last Projects
 * CV [Visit Project here](https://jeka98.github.io/CV)
 * Minto [Visit Project here](https://jeka98.github.io/Minto_test/)
+
 ## Education
 **BSUIR** 2016 - present
 
